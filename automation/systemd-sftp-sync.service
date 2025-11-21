@@ -1,0 +1,5 @@
+[Unit]
+Description=SFTP Sync Service
+
+[Service]
+ExecStart=/home/user/sftp-challenge/scripts/bash/sync.sh
