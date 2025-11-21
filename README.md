@@ -25,33 +25,6 @@ This challenge includes:
 
 ## 📂 Project Structure
 
-# SFTP Challenge
-
-A cross-platform project demonstrating how to upload, download, and synchronize files
-between a local machine and a remote server using SFTP.
-
-This challenge includes:
-
-- Multi-OS automation scripts (Bash, PowerShell, Python)
-- Reusable configuration templates
-- Example test files
-- Systemd + cron automation samples
-- Complete documentation in the `docs/` folder
-
----
-
-## 🚀 Features
-
-- Upload files to SFTP server
-- Download files from SFTP server
-- Bidirectional sync
-- Password and SSH-key authentication
-- Linux, Windows, and cross-platform Python support
-
----
-
-## 📂 Project Structure
-
 ```
 sftp-challenge/
 │
